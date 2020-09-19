@@ -26,6 +26,6 @@ of yet.
    d) stackoverflow.com
    e) hyperphysics.phy-astr.gsu.edu
 
-5. On command line type: make all
-   Then type './assignment1.out' and 'yourFile.txt' where yourFile is the name of the    txt file you wish to process
-   Follow prompts on screen until you exit the program
+5. a) On command line type: make all
+   b) Type './assignment1.out' and 'yourFile.txt' where yourFile is the name of the        txt file you wish to process
+   c) Follow prompts on screen until you exit the program
